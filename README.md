@@ -1,0 +1,2 @@
+# React17AspNetCore6
+React17AspNetCore6
